@@ -13,7 +13,7 @@ void setup() {
   Serial.begin(9600);
   pinMode(LED_BUILTIN, OUTPUT);
   digitalWrite(LED_BUILTIN, LOW);
-  Serial.println("Example 3: Blink with elapsedExec");
+  Serial.println("Blink with elapsedExec");
 }
 
 void loop() {
