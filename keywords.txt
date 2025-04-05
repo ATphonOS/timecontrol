@@ -1,0 +1,67 @@
+==================================
+CLASS
+==================================
+timecontrol	KEYWORD1
+
+==================================
+FUNCTIONS
+==================================
+getTimelapse	KEYWORD2
+setState	KEYWORD2
+getState	KEYWORD2
+stop	KEYWORD2
+resume	KEYWORD2
+elapsed	KEYWORD2
+elapsedExec	KEYWORD2
+secToTime	KEYWORD2
+printRunTime	KEYWORD2
+printTime	KEYWORD2
+millisToSeconds	KEYWORD2
+convertTime	KEYWORD2
+reset	KEYWORD2
+getElapsedTime	KEYWORD2
+setTimelapse	KEYWORD2
+isRunning	KEYWORD2
+remainingTime	KEYWORD2
+toggleState	KEYWORD2
+pauseAndGetElapsed	KEYWORD2
+restart	KEYWORD2
+elapsedCount	KEYWORD2
+setCallback	KEYWORD2
+elapsedSeconds	KEYWORD2
+runOnce	KEYWORD2
+setRepeatCount	KEYWORD2
+getTotalElapsedTime	KEYWORD2
+adjustTimelapse	KEYWORD2
+isOverdue	KEYWORD2
+setStartTime	KEYWORD2
+pauseAndResumeLater	KEYWORD2
+elapsedMicros	KEYWORD2
+fullReset	KEYWORD2
+getRepeatCount	KEYWORD2
+getLastElapsedTime	KEYWORD2
+attachInterrupt	KEYWORD2
+wait	KEYWORD2
+elapsedSince	KEYWORD2
+toggleRepeat	KEYWORD2
+setElapsedCallback	KEYWORD2
+elapsedInterval	KEYWORD2
+getRemainingCount	KEYWORD2
+formatElapsedTime	KEYWORD2
+setPriorityCallback	KEYWORD2
+pauseAll	KEYWORD2
+resumeFromInterrupt	KEYWORD2
+isTimeUp	KEYWORD2
+getAverageElapsedTime	KEYWORD2
+countdown	KEYWORD2
+
+==================================
+CONSTANTS
+==================================
+MillisecondsToSeconds	LITERAL1
+SecondsToMilliseconds	LITERAL1
+
+==================================
+DATA TYPES
+==================================
+TimeDirection	KEYWORD1
