@@ -17,7 +17,7 @@ void setup() {
   timer.setCallback(simpleAction);          // Simple callback
   timer.setElapsedCallback(showTime);       // Callback with time
   timer.setPriorityCallback(true);          // Run elapsedCallback first
-  Serial.println("Example 4: Callbacks with elapsed time");
+  Serial.println("Callbacks with elapsed time");
 }
 
 void loop() {
