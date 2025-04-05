@@ -6,7 +6,7 @@ The library provides ***non-blocking timing control for multitasking use***, exc
 
 ## Installation
 
-1. [Download](https://github.com/atphonos/timecontrol) this repository.
+1. [Download]([https://github.com/atphonos/timecontrol](https://github.com/ATphonOS/timecontrol/archive/refs/heads/main.zip)) this repository.
 2. **Install**: Add the library to the Arduino IDE via the ZIP file.
    - Open the Arduino IDE.  
    - Go to `Sketch > Include Library > Add .ZIP Library...`.  
