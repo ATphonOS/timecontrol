@@ -13,7 +13,7 @@ void setup() {
   pinMode(BUTTON_PIN, INPUT_PULLUP);
   interruptTimer.setCallback(countEvent);
   interruptTimer.attachInterrupt(BUTTON_PIN, FALLING);  // Interrupt on falling edge
-  Serial.println("Example 7: Counting with interrupt");
+  Serial.println("Counting with interrupt");
 }
 
 void loop() {
